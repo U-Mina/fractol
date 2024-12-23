@@ -1,0 +1,2 @@
+# fractol
+beautiful graph
